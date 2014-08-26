@@ -17,4 +17,5 @@ Para saber más sobre el autor y como nacio su blog, puedes leer la traducción 
 [about page](http://www.jamesaltucher.com/about/) aqui: 
 [Acerca de James Altucher](/james-altucher).
 
-Si deseas contribuir con este sitio, sólo envia un *pull request* al [repositorio del proyecto](https://github.com/web-log/jaltucher).
+Si deseas contribuir con este sitio, sólo envia un *pull request* al 
+[repositorio del proyecto](https://github.com/web-log/jaltucher/tree/master).
