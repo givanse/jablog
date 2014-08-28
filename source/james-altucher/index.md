@@ -16,7 +16,7 @@ Yo ni siquiera conocía al lector. Espero que algún dia nos conozcamos.
 
 <!-- more -->
 
-Hace dos años un amigo mio, Tim Skyes, insistio en que yo tenía que tener un blog.
+Hace dos años un amigo mio, Tim Sykes, insistio en que yo tenía que tener un blog.
 El lo preparo por mi. Hasta escribio la sección "Acerca de Mi". Yo no quería hacer un blog.
 No tenía nada que decir.
 Pero alrededor de 6 o 7 meses atras decidí que quería tomar este blog en serio.
@@ -64,7 +64,7 @@ Cuando hago todas esas otras cosas de las que me preguntas, soy un esclavo de to
 
 [33 consejos inusuales para ser un mejor escritor](/33-consejos-inusuales-para-ser-un-mejor-escritor)
 
-[El diente](http://www.jamesaltucher.com/2011/04/the-tooth/)
+[El diente](/el-diente)
 
 (uno de mis posts favoritos en mi blog)
 
