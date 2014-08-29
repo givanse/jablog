@@ -4,6 +4,7 @@ title:  "33 consejos inusuales para ser un mejor escritor"
 date:   2011-03-03 15:01:00
 original-url: http://www.jamesaltucher.com/2011/03/33-unusual-tips-to-being-a-better-writer
 original-title: 33 Unusual Tips to Being a Better Writer
+comments: true
 categories:
 ---
 
