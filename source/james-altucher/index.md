@@ -193,7 +193,7 @@ Aqui estan cuatro de mis favoritos.
 [$100mm](http://stocktwits.com/symbol/100mm)
 en el proceso)
 
-[Es tu culpa](http://www.jamesaltucher.com/2011/05/its-your-fault/)
+[Es tu culpa](/es-tu-culpa)
 
 [Soy culpable de torturar mujeres](http://www.jamesaltucher.com/2011/01/im-guilty-of-torture/)
 
