@@ -23,9 +23,9 @@ Yo era culpable entonces asi que debo ser culpable ahora.
 
 "¿Sí?"
 
-"¿Eres James.. No recuerdo tu apellido. Tu escribes acerca de las acciones?"
+"¿Eres James.. No recuerdo tu apellido. Tu escribes acerca de acciones de bolsa?"
 
-De hecho me sentí aliviado. Puedes rebajar la psicología todo lo que quieras, pero algo profundo de mi infancia me había asustado por un segundo. 
+De hecho me sentí aliviado. Puedes descontar la psicología todo lo que quieras, pero algo profundo de mi infancia me había asustado por un segundo. 
 Así que sonreí. Ahora yo era el hombre. YO ERA EL POLICÍA.
 
 "Sí. sí soy yo."
@@ -33,13 +33,13 @@ Así que sonreí. Ahora yo era el hombre. YO ERA EL POLICÍA.
 Solía comprar y vender acciones, él me dijo. Luego perdí 10,000 dólares cuando un tipo me habló de una acción.
 
 Uh-oh. Ahora me daba miedo de nuevo. 
-Un hombre con un arma de fuego se acaba de acercar a mí, me identificó por nombre, 
+Un hombre con un arma de fuego se acaba de acercar a mí, me identificó por mí nombre, 
 y me habló de un hombre (posiblemente yo) que le habló de una acción y luego se arruinó toda su carrera de compra y venta de acciones. 
 Sabía a ciencia cierta que las probabilidades de que iba a dispararme en esa librería eran cero. Pero aún así.
 
 ¿Cuál fue la acción?
 
-Me olvide, él dijo, algo de acciones de petroleo. Voy a tratar de recordar. Me gusta lo que haces.
+Me olvide, él dijo, algo de acciones de petróleo. Voy a tratar de recordar. Me gusta lo que haces.
 Pero hombre, lo más que hice en un día fue 5,000. Luego aquel día, perder 10,000. Era demasiado para mí.
 Nunca debí haber escuchado a ese tipo.
 
@@ -57,14 +57,14 @@ Es tu culpa.
 Tu escuchaste a esos tipos en esa oportunidad de inversión. Tu pusiste tu dinero dentro.
 Tu fuiste a todas las reuniones. Hiciste todo lo que se debía hacer.
 Tu hiciste la revisión de antecedentes. Ellos robaron el dinero. 
-Ahora estas demandandolos y se está declarando en bancarrota para evitar el pago. 
+Ahora estas demandandolos y se están declarando en bancarrota para evitar pagar. 
 Tu ex marido dejó de pagar la manutención de los niños. Tus padres no te amaron.
 Esa chica que amabas tanto que habrias matado por ella tuvo un aborto y luego te dejó.
 
 Es todo culpa tuya.
 
 Cualquiera que lea este blog sabe que he perdido un montón de dinero en diferentes puntos.
-Me animaron a demandar a mi asesor.
+Me animaron a demandar a mi agente de bolsa.
 Me animaron a demandar a las empresas.
 Me animaron a llorar la pérdida del dinero como si estuviera de luto por la pérdida de un ser querido y luego seguir adelante.
 Yo no hice ninguna de esas cosas. Fue mi culpa.
@@ -77,11 +77,11 @@ Quería decirme su consejo para ella.
 "No me importa", le dije. "Tu consejo no va a hacer sentido y no importa lo que ella hizo, te mereces lo que sea que tienes,
 supongo que tuviste un fin de semana horrible con ella donde se rompieron el corazón, y una persona lloro en el suelo,
 y ambos se rasguñaron, y recordaron tres momentos buenos de hace años, y luchó, y gritó, y arrancó, y la policía fue llamada.
-No me importa lo que ella hizo. No eres bueno para ella y tu culpa."
+No me importa lo que ella hizo. No eres bueno para ella y es tu culpa."
 
 ¿Cómo puedes decir eso? él dijo.
 
-Porque ¿qué es lo que tiene que ofrecer? ¿Qué consejo puedes posiblemente darle que pueda ayudar? Ella es mejor que tú.
+Porque ¿qué es lo que tienes que ofrecer? ¿Qué consejo puedes posiblemente darle que pueda ayudar? Ella es mejor que tú.
 
 ¿Y por qué escuchaste los consejos sobre acciones de tu amigo? ¿Por qué escuchar a nadie?
 ¿Y por qué crees que demandar a alguien puede resolver tu felicidad y darte una vida mejor?
@@ -117,9 +117,9 @@ Y la vida no va a ser mejor hasta que lo digas en voz alta.
 
 Usted es un policía, no un comerciante de acciones. Atrapa algunos chicos malos.
 Puedo hacer la lista una y otra vez de lo que he perdido, a quienes he perdido.
-El tiempo que he pasado. Las personas que han dejado atrás. El dinero que se ha ido.
+El tiempo que he gastado. Las personas que he dejado atrás. El dinero que se ha ido.
 Las amistades que se derritieron. Todo es mi culpa.
-Si describo cómo gran parte de eso fue mi culpa sería impresionante en su alcance.
+Si describo cómo gran parte de eso fue mi culpa sería impresionante en su extensión.
 Cuántas sonrisas he cruelmente deshechado por culpar a los demás. Es mi culpa.
 
 Okay.

@@ -120,7 +120,7 @@ Enlace relacionado:
 **4. Es posible acelerar el éxito? Si si, como?**
 
 Si, y es la única forma que yo conozco en realidad para alcanzar el éxito.
-[Es siguiendo la práctica diaria que esbozo en este post](http://www.jamesaltucher.com/2011/02/how-to-be-the-luckiest-guy-on-the-planet-in-4-easy-steps/).
+[Es siguiendo la práctica diaria que esbozo en este post](/como-ser-el-hombre-mas-afortunado-del-planeta-en-4-sencillos-pasos).
 
 Es la única forma que conozco para ejercitar cada musculo desde tu interior hacia tu exterior.
 Creo firmemente que la felicidad comienza con esa práctica.
@@ -150,7 +150,7 @@ Olvidamos lo bien que sabía la nieve cuando eramos niños.
 Ahora queremos comida gourment en cada comida.
 
 Tomar un paso hacia atras, realizar la 
-[práctica diaria](http://www.jamesaltucher.com/2011/02/how-to-be-the-luckiest-guy-on-the-planet-in-4-easy-steps/)
+[práctica diaria](/como-ser-el-hombre-mas-afortunado-del-planeta-en-4-sencillos-pasos)
 que esbozo en en la pregunta de arriba.
 Para mi, los resultados de aquello me traen felicidad. Eso es éxito. Hoy. Y con esperanza mañana también.
 
@@ -324,7 +324,7 @@ Las fibras morales se atrofian más rápido que cualquier musculo del cuerpo.
 Un ejercicio que hago todos los dias es prometerme a mi mismo que "Voy a salvar una vida hoy"
 y después lo dejo en las manos del universo para dirijirme como mejor pueda hacer eso.
 A través de ese ejercicio ademas de la 
-[Práctica Diaria](http://www.jamesaltucher.com/2011/02/how-to-be-the-luckiest-guy-on-the-planet-in-4-easy-steps/)
+[Práctica Diaria](/como-ser-el-hombre-mas-afortunado-del-planeta-en-4-sencillos-pasos)
 descrita arriba yo espero seguir regenerando esa fibra.
 
 **15. Tu mensaje para los lectores de este blog?**
