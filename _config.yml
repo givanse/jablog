@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://web-log.github.io/jaltucher
+url: http://aethermx.github.io/jamesaltucher
 title: El Altucher Confidencial 
 subtitle: Ideas para un Mundo Fuera de Balance 
 author:
@@ -16,7 +16,7 @@ description: Traducciones al Español del blog de James Altucher.
 date_format: "%d - %m - %Y"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /jaltucher/atom.xml
+subscribe_rss: /jamesaltucher/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,11 +26,11 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-#root: /jaltucher
-root: /
+root: /jamesaltucher
+#root: /
 permalink: :title 
 source: source
-destination: public/jaltucher
+destination: public/jamesaltucher
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -66,8 +66,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_username: web-log/jaltucher 
-github_user:
+github_username: aethermx/jamesaltucher 
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
