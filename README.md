@@ -1,11 +1,7 @@
 
 The site is powered by [Octopress](http://octopress.org/).
 
-Site URL:
-
-http://jamesaltucher.aether.mx
-
-http://aethermx.github.io/jamesaltucher
+Site URL: http://jamesaltucher.aether.mx
 
 ## Contribute
 
